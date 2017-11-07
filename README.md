@@ -2,10 +2,8 @@
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-[logo]: https://yt3.ggpht.com/-039gr2pQ9TY/AAAAAAAAAAI/AAAAAAAAAAA/DuNpu9194PQ/s288-c-k-no-mo-rj-c0xffffff/photo.jpg "Logo Title Text 2"
+<p align="center">[logo]: https://yt3.ggpht.com/-039gr2pQ9TY/AAAAAAAAAAI/AAAAAAAAAAA/DuNpu9194PQ/s288-c-k-no-mo-rj-c0xffffff/photo.jpg "SoftUniLogo"</p>
 
-<br/>
-<br/>
 <br/>
 
 <h2> Certificates </h2>
