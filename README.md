@@ -18,5 +18,5 @@
 |<a href="https://softuni.bg/trainings/1511/software-technologies-february-2017"> Software Technologies  </a> | <a href="https://softuni.bg/certificates/details/19165/622904e4"> Link</a> |
 |<a href="https://softuni.bg/trainings/1633/csharp-advanced-may-2017"> C# Advanced </a> | <a href="https://softuni.bg/certificates/details/21494/909bbd35"> Link</a> |
 |<a href="https://softuni.bg/trainings/1636/c-sharp-oop-basics-june-2017"> C# OOP Basics </a> | <a href="https://softuni.bg/certificates/details/21637/e4e7ba56"> Link</a> |
-|<a href="https://softuni.bg/courses/csharp-oop-advanced-high-quality-code"> C# OOP Advanced</a> | <a href="https://softuni.bg/certificates/details/23376/a81f7168"> Link</a> |
+|<a href="https://softuni.bg/trainings/1637/c-sharp-oop-advanced-july-2017"> C# OOP Advanced</a> | <a href="https://softuni.bg/certificates/details/23376/a81f7168"> Link</a> |
 |<a href="https://softuni.bg/trainings/1747/databases-basics-mssql-server-september-2017/internal"> Databases Basics - MS SQL Server </a> | <a href="https://softuni.bg/certificates/details/23898/9ef68c09"> Link</a> |
