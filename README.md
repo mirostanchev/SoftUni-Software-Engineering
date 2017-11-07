@@ -1,4 +1,4 @@
-# <p align="center"> Courses from the main program in Software University <p>
+# <h2 align="center"> Courses from the main program in Software University <h1>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
@@ -8,7 +8,7 @@
 
 <h2> Certificates </h2>
 
-|**Course**|**Link**|
+|**Course**|**Certificate**|
 |---|---|
 |<a href="https://softuni.bg/trainings/1439/programming-basics-august-2016" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/15374/7221f47d"> Link</a> |
 |<a href="https://softuni.bg/trainings/1509/programming-fundamentals-january-2017"> Programming Fundamentals  </a>| <a href="https://softuni.bg/certificates/details/20165/3bbc4597"> Link</a> |
