@@ -1,4 +1,4 @@
-# <h2 align="center"> Courses from the main program in Software University <h1>
+<h2 align="center"> Courses from the main program in Software University <h1>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
