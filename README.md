@@ -1,8 +1,8 @@
-# <p align="center"> Courses from the main program in SoftUni <p>
+# <p align="center"> Courses from the main program in Software University <p>
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-<p align="center">[logo]: https://yt3.ggpht.com/-039gr2pQ9TY/AAAAAAAAAAI/AAAAAAAAAAA/DuNpu9194PQ/s288-c-k-no-mo-rj-c0xffffff/photo.jpg "SoftUniLogo"</p>
+[logo]: https://yt3.ggpht.com/-039gr2pQ9TY/AAAAAAAAAAI/AAAAAAAAAAA/DuNpu9194PQ/s288-c-k-no-mo-rj-c0xffffff/photo.jpg "SoftUniLogo"
 
 <br/>
 
